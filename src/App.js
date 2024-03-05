@@ -4,9 +4,9 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
-      Weather App
+      <h1> Weather App </h1>
       <footer>
-        This project is created by Sonia Carrillo and is
+        This project is created by Sonia Carrillo and is{" "}
         <a
           href="https://github.com/SoniaCarrilloM/weather-app-three"
           target="_blank"
