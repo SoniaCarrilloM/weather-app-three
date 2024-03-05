@@ -10,7 +10,7 @@ export default function App() {
         <a
           href="https://github.com/SoniaCarrilloM/weather-app-three"
           target="_blank"
-          ref="noreferrer"
+          rel="noreferrer"
         >
           open sourced on GitHub
         </a>
