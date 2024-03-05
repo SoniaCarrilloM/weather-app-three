@@ -6,7 +6,15 @@ export default function App() {
     <div className="App">
       <h1> Weather App </h1>
       <footer>
-        This project is created by Sonia Carrillo and is{" "}
+        This project is created by{" "}
+        <a
+          href="https://github.com/SoniaCarrilloM"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Sonia Carrillo{" "}
+        </a>
+        and is{" "}
         <a
           href="https://github.com/SoniaCarrilloM/weather-app-three"
           target="_blank"
