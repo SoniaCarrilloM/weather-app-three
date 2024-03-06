@@ -12,7 +12,7 @@ export default function App() {
           <a
             href="https://github.com/SoniaCarrilloM"
             target="_blank"
-            rel="noreferrer"
+            rel="noreferrer noopener"
           >
             Sonia Carrillo{" "}
           </a>
@@ -20,7 +20,7 @@ export default function App() {
           <a
             href="https://github.com/SoniaCarrilloM/weather-app-three"
             target="_blank"
-            rel="noreferrer"
+            rel="noreferrer noopener"
           >
             open sourced on GitHub
           </a>
